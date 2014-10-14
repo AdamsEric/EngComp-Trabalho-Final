@@ -1,7 +1,14 @@
 #include<iostream>
+#include<sstream>
+#include<string>
 using namespace std;
 
 int main()
 {
-  return 0;
+	struct disciplina{
+		string nome;
+		int ch;	
+	};
+	
+	return 0;
 }
